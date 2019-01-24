@@ -1,5 +1,7 @@
 # Parking Lot System
-Assignment. Parking lot system assigns designated floor for a vechicle in accordance with it's plate number.
+Assignment. 
+
+Parking lot system assigns designated floor for a vechicle in accordance with it's plate number.
 
 ## How it works
 Parking lot has 10 floors: -2, -1, 1 ... 8. Each floor has 10 parking spaces. Parking Lot entrance is at floor #1.
