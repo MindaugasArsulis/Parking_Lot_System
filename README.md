@@ -2,7 +2,8 @@
 Assignment. Parking lot system assigns designated floor for a vechicle in accordance with it's plate number.
 
 ## How it works
-Parking lot has 10 floors: -2, -1, 1 ... 8. Each floor has 10 parking spaces.
+Parking lot has 10 floors: -2, -1, 1 ... 8. Each floor has 10 parking spaces. Parking Lot entrance is at floor #1.
+
 There are three kind of vechicles: Electric car, Van and Regular car (Petrol/Gasolin). These cars have designated parking floors. They are identfied by their plate numbers:
 1) Electric Car plate number starts with "EV" and they can park in 7 or 8 floors.
 2) Van plate number starts with "VA" and they can park in -1 or -2 floors.
