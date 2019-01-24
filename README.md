@@ -28,5 +28,5 @@ When this happens, "Good Bye" message appears and register file is printed out w
 
 ### Unit Test
 
-Test has been written for car number plates assigning to floor numbers.
+Test has been written for car number plates method, who assigns floor numbers.
 
